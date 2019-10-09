@@ -1,7 +1,2 @@
-# Code Institute
-
-Welcome USER_NAME,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+# Mini project - Blog
+A mini project to gain experience with Django
